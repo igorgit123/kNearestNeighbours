@@ -2,7 +2,7 @@
 
 **Overview**
 
-This program is an implementation of the K nearest neighbours algorthm for a school project.
+This program is an implementation of the K nearest neighbours algorithm for a school project.
 
 **Functionality**
 
